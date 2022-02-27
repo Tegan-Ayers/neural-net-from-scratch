@@ -1,2 +1,3 @@
 # neural-net-from-scratch
-cs7150 (deep learning) programming assignment 1
+
+Jupyter notebook containing functions that build Fully-Connected and Convolutional Neural Networks from scratch using numpy. 
